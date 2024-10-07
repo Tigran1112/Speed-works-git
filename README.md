@@ -73,3 +73,10 @@ You can now use the `swg` command to simplify your Git workflow. Below are the a
    ```bash
    swg conf [your-username] [your-email]
   ```
+Now, you're ready to use Speed Works Git! Simply type any of the following shortcuts to speed up your Git workflow.
+
+> ⚡ **Speed up your Git workflow and save precious time!**
+
+---
+
+Made with ❤️ by Tigran
